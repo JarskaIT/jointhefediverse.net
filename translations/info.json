@@ -62,8 +62,8 @@
                 "url": "https://oldbytes.space/@tarek"
             }
         ]
-    }
-     {
+    },
+    {
         "label": "suomi",
         "label_en": "finnish",
         "label_lat": "finnish",
@@ -75,5 +75,5 @@
                 "name": "Jari Nikkinen",
                 "url": "https://mastodontti.fi/@Jarska96"
             }
-        ]
+    ]
 ]
